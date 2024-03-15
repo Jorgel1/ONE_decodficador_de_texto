@@ -88,7 +88,7 @@ main {
 
 .btn-copiar {
     background-color: white;
-    border-color: #0A3871;
+    border:1px solid #0A3871;
     border-radius: 24px;
     font-size: 1rem;
     color: #0A3871;
